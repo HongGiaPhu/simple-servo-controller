@@ -1,4 +1,4 @@
-#SIMPLE SERVO CONTROLLER
+##SIMPLE SERVO CONTROLLER
 
 ##DETAILS:
 - This project uses Arduino Uno with PWM signal to control the SG90 Servo.
@@ -14,9 +14,11 @@
 - 5V DC Power Source
 
 ##DIAGRAMS:
+
 ![Wiring Diagram](image/DIAGRAM.png)
 
 ##REAL-LIFE CIRCUIT:
+
 ![Real](image/REAL.png)
 
 ##Instructions:
